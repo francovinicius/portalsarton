@@ -13,9 +13,41 @@ code {
 }
 
 body {
-background-color: rgb(255, 255, 255);
+  background-color: #212121;
 }
 
 .img-nav {
   width: 48px;
+}
+
+.cards {
+  margin-top: 3rem;
+
+}
+
+.card-model {
+  width: 160px;
+  height: 154px;
+  border-radius: 30px;
+  background: #212121;
+  box-shadow: 15px 15px 30px rgb(25, 25, 25),
+    -15px -15px 30px rgb(60, 60, 60);
+}
+
+.card-a {
+  text-decoration: none;
+}
+
+.h-model {
+  margin-top: .5rem;
+  color: white;
+}
+
+.card-img {
+  width: 5rem;
+}
+
+.h-model-l{
+  margin-top: -.7rem;
+  margin-bottom: 1rem;
 }
