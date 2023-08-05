@@ -32,6 +32,12 @@ body {
   background: #212121;
   box-shadow: 15px 15px 30px rgb(25, 25, 25),
     -15px -15px 30px rgb(60, 60, 60);
+  opacity: .4;
+}
+
+.card-model:hover {
+  opacity: 1;
+  transition: 1s;
 }
 
 .card-a {
@@ -47,7 +53,7 @@ body {
   width: 5rem;
 }
 
-.h-model-l{
-  margin-top: -.7rem;
+.h-model-l {
+  margin-top: -1rem;
   margin-bottom: 1rem;
 }
