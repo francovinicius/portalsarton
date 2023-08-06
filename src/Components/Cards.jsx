@@ -24,6 +24,15 @@ const Cards = () => {
 
         <a className="card-a d-flex flex-column justify-content-center align-items-center" href="/" target="_blank">
           <h6 className="h-model">
+            Patrimônio - Form
+          </h6>
+          <img className="card-img-2" src="./assets/icons/forms.png" alt="excel" />
+        </a>
+      </div>
+      <div className="card-model d-flex justify-content-center flex-wrap">
+
+        <a className="card-a d-flex flex-column justify-content-center align-items-center" href="/" target="_blank">
+          <h6 className="h-model">
             OneDrive
           </h6>
           <img className="card-img" src="./assets/icons/onedrive.svg" alt="excel" />
