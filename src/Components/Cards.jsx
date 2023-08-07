@@ -112,6 +112,16 @@ const Cards = () => {
           <img className="card-img" src="./assets/icons/webmail.png" alt="excel" />
         </a>
       </div>
+      {/* Acuttis */}
+      <div className="card-model d-flex justify-content-center flex-wrap">
+
+        <a className="card-a d-flex flex-column justify-content-center align-items-center" href="https://app.acuttis.com.br/signin?_ga=2.82562390.134971841.1691433937-37901974.1691433937&_gl=1*zmsbzd*_ga*Mzc5MDE5NzQuMTY5MTQzMzkzNw..*_ga_1KK40SNS75*MTY5MTQzMzkzNi4xLjAuMTY5MTQzMzk0NC4wLjAuMA..*_ga_43W2WYML5H*MTY5MTQzMzkzOC4xLjAuMTY5MTQzMzk0Ni4wLjAuMA.." target="_blank">
+          <h6 className="h-model">
+            Acuttis
+          </h6>
+          <img className="card-img" src="./assets/icons/acuttis.svg" alt="excel" />
+        </a>
+      </div>
 
 
 
