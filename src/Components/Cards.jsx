@@ -26,7 +26,7 @@ const Cards = () => {
           <h6 className="h-model">
             Patrimônio - Form
           </h6>
-          <img className="card-img-2" src="./assets/icons/forms.png" alt="excel" />
+          <img className="card-img" src="./assets/icons/form.svg" alt="excel" />
         </a>
       </div>
       <div className="card-model d-flex justify-content-center flex-wrap">
