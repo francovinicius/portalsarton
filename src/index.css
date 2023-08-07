@@ -16,6 +16,10 @@ body {
   background-color: #212121;
 }
 
+.tittle-nav {
+  font-size: 18px;
+}
+
 .img-nav {
   width: 48px;
 }
