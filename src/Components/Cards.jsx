@@ -45,9 +45,39 @@ const Cards = () => {
       {/* Pat Form */}
       <div className="card-model d-flex justify-content-center flex-wrap">
 
-        <a className="card-a d-flex flex-column justify-content-center align-items-center" href="/" target="_blank">
+        <a className="card-a d-flex flex-column justify-content-center align-items-center" href="https://docs.google.com/forms/d/e/1FAIpQLSefDN9ruSxXQgYT3lP1XcUZ1MNH42v135XaGgGiKqxD6PPCxw/viewform" target="_blank">
           <h6 className="h-model">
-            Patrimônio - Form
+            Patrimônio Form
+          </h6>
+          <img className="card-img" src="./assets/icons/form.svg" alt="excel" />
+        </a>
+      </div>
+      {/* Manutenção Veicular Form */}
+      <div className="card-model d-flex justify-content-center flex-wrap">
+
+        <a className="card-a d-flex flex-column justify-content-center align-items-center" href="https://docs.google.com/forms/d/e/1FAIpQLSdlEln08jvO0zSRZVS4MgN6p8tuOSTHxOkAYPN60kTKQL80tg/viewform" target="_blank">
+          <h6 className="h-model">
+            Car Maintenance
+          </h6>
+          <img className="card-img" src="./assets/icons/form.svg" alt="excel" />
+        </a>
+      </div>
+      {/* Veiculo Form */}
+      <div className="card-model d-flex justify-content-center flex-wrap">
+
+        <a className="card-a d-flex flex-column justify-content-center align-items-center" href="https://docs.google.com/forms/d/e/1FAIpQLScmKccid3JuqpobYzf0HgkFLLPesCplDPL9GiKru4cprjYunQ/viewform" target="_blank">
+          <h6 className="h-model">
+            Veículo
+          </h6>
+          <img className="card-img" src="./assets/icons/form.svg" alt="excel" />
+        </a>
+      </div>
+      {/* Abastecimento Form */}
+      <div className="card-model d-flex justify-content-center flex-wrap">
+
+        <a className="card-a d-flex flex-column justify-content-center align-items-center" href="https://docs.google.com/forms/d/e/1FAIpQLSdWYlSVl095QUezUHdEYV_eXPsgyhqWt6F5jtdOJmTpyS2zEw/viewform" target="_blank">
+          <h6 className="h-model">
+            Abastecimento
           </h6>
           <img className="card-img" src="./assets/icons/form.svg" alt="excel" />
         </a>
