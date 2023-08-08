@@ -12,6 +12,16 @@ const Cards = () => {
           <img className="card-img" src="./assets/icons/excel.svg" alt="excel" />
         </a>
       </div>
+      {/* Banco de Talentos */}
+      <div className="card-model d-flex justify-content-center flex-wrap">
+
+        <a className="card-a d-flex flex-column justify-content-center align-items-center" href="https://onedrive.live.com/edit.aspx?resid=D60D375BD4296DB8!85233&cid=d60d375bd4296db8&CT=1691507723125&OR=ItemsView" target="_blank">
+          <h6 className="h-model">
+            Talentos
+          </h6>
+          <img className="card-img" src="./assets/icons/excel.svg" alt="excel" />
+        </a>
+      </div>
       {/* ASO */}
       <div className="card-model d-flex justify-content-center flex-wrap">
 
