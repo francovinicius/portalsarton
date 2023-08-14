@@ -2,7 +2,7 @@
 const Cards = () => {
   return (
     <div className="cards d-flex justify-content-center align-items-center gap-5 flex-wrap">
-      {/* Cadastro */}
+      {/* Cadastro 
       <div className="card-model d-flex justify-content-center flex-wrap">
 
         <a className="card-a d-flex flex-column justify-content-center align-items-center" href="https://docs.google.com/spreadsheets/d/1GXY5tMQqONWklF2-e1_Gndisquvts0xk1fUfCtck7Bk/edit?pli=1#gid=1089243014" target="_blank">
@@ -12,6 +12,7 @@ const Cards = () => {
           <img className="card-img" src="./assets/icons/excel.svg" alt="excel" />
         </a>
       </div>
+      */}
       {/* Banco de Talentos */}
       <div className="card-model d-flex justify-content-center flex-wrap">
 
