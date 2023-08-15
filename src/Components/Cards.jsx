@@ -13,6 +13,17 @@ const Cards = () => {
         </a>
       </div>
       */}
+      {/* Cruzamento Ago */}
+      <div className="card-model d-flex justify-content-center flex-wrap">
+
+        <a className="card-a d-flex flex-column justify-content-center align-items-center" href="https://docs.google.com/spreadsheets/d/14bm3Yxf1bz5ZmK_dvbvXtPojHwHRFUNLTQDTYQp25hk/edit#gid=953444778" target="_blank">
+          <h6 className="h-model">
+          Cruzamento Ago
+          </h6>
+          <img className="card-img" src="./assets/icons/excel.svg" alt="excel" />
+        </a>
+      </div>
+      
       {/* Banco de Talentos */}
       <div className="card-model d-flex justify-content-center flex-wrap">
 
