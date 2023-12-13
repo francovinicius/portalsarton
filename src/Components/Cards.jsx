@@ -11,17 +11,6 @@ const Cards = () => {
 
         <div className='className="cards d-flex justify-content-center align-items-center gap-5 flex-wrap"'>
 
-          {/* Cadastro  */}
-          <div className="card-model d-flex justify-content-center flex-wrap">
-
-            <a className="card-a d-flex flex-column justify-content-center align-items-center" href="https://docs.google.com/spreadsheets/d/1GXY5tMQqONWklF2-e1_Gndisquvts0xk1fUfCtck7Bk/edit?pli=1#gid=1089243014" target="_blank">
-              <h6 className="h-model">
-                Planilha de cadastro
-              </h6>
-              <img className="card-img" src="./assets/icons/excel.svg" alt="excel" />
-            </a>
-          </div>
-
           {/* Acuttis */}
           <div className="card-model d-flex justify-content-center flex-wrap">
 
@@ -60,14 +49,14 @@ const Cards = () => {
           {/* Conta Azul  */}
           <div className="card-model d-flex justify-content-center flex-wrap">
 
-            <a className="card-a d-flex flex-column justify-content-center align-items-center" 
-            href="https://ca.contaazul.com/" target="_blank">
+            <a className="card-a d-flex flex-column justify-content-center align-items-center"
+              href="https://ca.contaazul.com/" target="_blank">
               <h6 className="h-model">
                 Conta Azul
               </h6>
               <img className="card-img-2" src="./assets/icons/rede.png" alt="excel" />
             </a>
-          </div>  
+          </div>
 
           {/* Onvio  */}
           <div className="card-model d-flex justify-content-center flex-wrap">
@@ -78,7 +67,7 @@ const Cards = () => {
               </h6>
               <img className="card-img-2" src="./assets/icons/rede.png" alt="excel" />
             </a>
-          </div>  
+          </div>
 
           {/* ARCA */}
           <div className="card-model d-flex justify-content-center flex-wrap">
@@ -112,6 +101,30 @@ const Cards = () => {
 
 
         <div className='className="cards d-flex justify-content-center align-items-center gap-5 flex-wrap"'>
+
+          {/* Cadastro  */}
+          <div className="card-model d-flex justify-content-center flex-wrap">
+
+            <a className="card-a d-flex flex-column justify-content-center align-items-center" href="https://docs.google.com/spreadsheets/d/1GXY5tMQqONWklF2-e1_Gndisquvts0xk1fUfCtck7Bk/edit?pli=1#gid=1089243014" target="_blank">
+              <h6 className="h-model">
+                Planilha de cadastro
+              </h6>
+              <img className="card-img" src="./assets/icons/excel.svg" alt="excel" />
+            </a>
+          </div>
+
+
+          {/* Relatório de Serviços */}
+          <div className="card-model d-flex justify-content-center flex-wrap">
+
+            <a className="card-a d-flex flex-column justify-content-center align-items-center"
+              href="https://onedrive.live.com/edit?action=edit&id=D60D375BD4296DB8!93953&resid=D60D375BD4296DB8!93953&ithint=file%2cxlsx&action=edit&wdMsFormsCorrelationId=a47ff94d-65a7-461b-8b73-959f87c630ee&wdo=2&cid=d60d375bd4296db8" target="_blank">
+              <h6 className="h-model">
+                Relatórios Serviços
+              </h6>
+              <img className="card-img" src="./assets/icons/excel.svg" alt="excel" />
+            </a>
+          </div>
 
           {/* Cartões Alelo */}
           <div className="card-model d-flex justify-content-center flex-wrap">
@@ -192,6 +205,18 @@ const Cards = () => {
             </a>
           </div>
 
+          {/* Adv Form */}
+          <div className="card-model d-flex justify-content-center flex-wrap">
+
+            <a className="card-a d-flex flex-column justify-content-center align-items-center" 
+            href="https://docs.google.com/forms/d/e/1FAIpQLSdDqv1nTEePFuDt0jZjAUm7-JROvzU65UGjMCGhiTbWJ8m_zg/viewform" target="_blank">
+              <h6 className="h-model">
+                Envio de ASOS
+              </h6>
+              <img className="card-img" src="./assets/icons/form.svg" alt="excel" />
+            </a>
+          </div>
+
           {/* Pat Form */}
           <div className="card-model d-flex justify-content-center flex-wrap">
 
@@ -202,6 +227,8 @@ const Cards = () => {
               <img className="card-img" src="./assets/icons/form.svg" alt="excel" />
             </a>
           </div>
+
+
           {/* Manutenção Veicular Form */}
           <div className="card-model d-flex justify-content-center flex-wrap">
 
