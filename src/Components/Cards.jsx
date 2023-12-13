@@ -57,7 +57,19 @@ const Cards = () => {
             </a>
           </div>
 
-          {/* Cadastro  */}
+          {/* Conta Azul  */}
+          <div className="card-model d-flex justify-content-center flex-wrap">
+
+            <a className="card-a d-flex flex-column justify-content-center align-items-center" 
+            href="https://ca.contaazul.com/" target="_blank">
+              <h6 className="h-model">
+                Conta Azul
+              </h6>
+              <img className="card-img-2" src="./assets/icons/rede.png" alt="excel" />
+            </a>
+          </div>  
+
+          {/* Onvio  */}
           <div className="card-model d-flex justify-content-center flex-wrap">
 
             <a className="card-a d-flex flex-column justify-content-center align-items-center" href="https://docs.google.com/spreadsheets/d/1GXY5tMQqONWklF2-e1_Gndisquvts0xk1fUfCtck7Bk/edit?pli=1#gid=1089243014" target="_blank">
