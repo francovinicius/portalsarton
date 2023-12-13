@@ -9,7 +9,7 @@ const Cards = () => {
 
 
 
-        <div className='className="cards d-flex justify-content-center align-items-center gap-5 flex-wrap"'>
+        <div className='cards d-flex justify-content-center align-items-center gap-5 flex-wrap'>
 
           {/* Acuttis */}
           <div className="card-model d-flex justify-content-center flex-wrap">
@@ -100,7 +100,7 @@ const Cards = () => {
         <h1 className="title-psi">Acompanhamentos</h1>
 
 
-        <div className='className="cards d-flex justify-content-center align-items-center gap-5 flex-wrap"'>
+        <div className='cards d-flex justify-content-center align-items-center gap-5 flex-wrap'>
 
           {/* Cadastro  */}
           <div className="card-model d-flex justify-content-center flex-wrap">
@@ -192,7 +192,7 @@ const Cards = () => {
       <div className="cards d-flex flex-column justify-content-center align-items-center gap-5 flex-wrap">
         <h1 className="title-psi">Formulários para envio</h1>
 
-        <div className='className="cards d-flex justify-content-center align-items-center gap-5 flex-wrap"'>
+        <div className='cards d-flex justify-content-center align-items-center gap-5 flex-wrap'>
 
           {/* Adv Form */}
           <div className="card-model d-flex justify-content-center flex-wrap">
