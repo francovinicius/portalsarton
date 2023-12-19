@@ -205,7 +205,20 @@ const Cards = () => {
             </a>
           </div>
 
-          {/* Adv Form */}
+          {/* alelo Form */}
+          <div className="card-model d-flex justify-content-center flex-wrap">
+
+            <a className="card-a d-flex flex-column justify-content-center align-items-center" 
+            href="https://docs.google.com/forms/u/0/d/e/1FAIpQLSfEPCTrMSK89vZLefvbLshVEzLHgggzPcXO0S_JhG7lD7MrLg/formResponse" target="_blank">
+              <h6 className="h-model">
+                Pedidos de benefícios
+              </h6>
+              <img className="card-img" src="./assets/icons/form.svg" alt="excel" />
+            </a>
+          </div>
+
+
+          {/* ASOs */}
           <div className="card-model d-flex justify-content-center flex-wrap">
 
             <a className="card-a d-flex flex-column justify-content-center align-items-center" 
