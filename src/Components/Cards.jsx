@@ -27,7 +27,7 @@ const Cards = () => {
           <div className="card-model d-flex justify-content-center flex-wrap">
 
             <a className="card-a d-flex flex-column justify-content-center align-items-center"
-              href="https://docs.google.com/spreadsheets/d/1BgtUf5yx0x27Hecn8okY_0wh_PhzVjZ1n-oJ1On94qo/edit#gid=1103674570" target="_blank">
+              href="https://docs.google.com/spreadsheets/d/1mzIQBULi9UbMfpFygnGixsrQ5i4szEncch2h8qKlXM4/edit#gid=953444778" target="_blank">
               <h6 className="h-model">
                 Cruzamento
               </h6>
